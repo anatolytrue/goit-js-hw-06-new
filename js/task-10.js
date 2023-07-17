@@ -25,7 +25,7 @@ function createBoxes(amount) {
     container.push(div)
   }
   boxes.append(...container)
-  return boxes
+  // return boxes
 };
 
 function desroyBoxes(){
